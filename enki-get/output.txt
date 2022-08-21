@@ -1,0 +1,36 @@
+{
+	"data": {
+		"uid": "10012",
+		"mirrors": [
+			"https://pdsimage2.wr.usgs.gov/archive/MSL/MSLMHL_0002/",
+			"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0002/"
+		],
+		"name": "NULL",
+		"publication": "2013-05-20T00:00:00+00:00",
+		"series_name": "NULL",
+		"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+		"targets": [
+			{
+				"name": "MARS",
+				"uid": "32"
+			}
+		],
+		"instruments": [
+			{
+				"id": "MAHLI",
+				"uid": "136"
+			}
+		],
+		"data_set_id": [
+			"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+			"MSL-M-MAHLI-2-EDR-VID-V1.0",
+			"MSL-M-MAHLI-2-EDR-Z-V1.0",
+			"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+			"MSL-M-MAHLI-4-RDR-VID-V1.0",
+			"MSL-M-MAHLI-4-RDR-Z-V1.0"
+		],
+		"id": "MSLMHL_0002",
+		"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+		"version_id": "VERSION 2"
+	}
+}

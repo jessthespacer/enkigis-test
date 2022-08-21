@@ -1,0 +1,278 @@
+{
+	"data": [
+		{
+			"series_name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"version_id": "VERSION 2",
+			"uid": "10012",
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"id": "MSLMHL_0002",
+			"name": "NULL",
+			"publication": "2013-05-20T00:00:00+00:00",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/archive/MSL/MSLMHL_0002/",
+				"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0002/"
+			]
+		},
+		{
+			"name": "NULL",
+			"publication": "2013-05-20T00:00:00+00:00",
+			"version_id": "VERSION 1",
+			"uid": "10814",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"id": "MSLMHL_0006",
+			"series_name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/data/MSL/MSLMHL_0006/",
+				"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0006/"
+			],
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			]
+		},
+		{
+			"series_name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"uid": "10938",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"id": "MSLMHL_0013",
+			"publication": "2013-05-20T00:00:00+00:00",
+			"version_id": "VERSION 1",
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/data/MSL/MSLMHL_0013/",
+				"https://pds-imaging.jpl.nasa.gov/data/mahli/MSLMHL_0013/"
+			],
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"name": "NULL"
+		},
+		{
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"id": "MSLMHL_0018",
+			"version_id": "VERSION 1",
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/archive/MSL/MSLMHL_0018/",
+				"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0018/"
+			],
+			"name": "NULL",
+			"publication": "2013-05-20T00:00:00+00:00",
+			"series_name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"uid": "11150",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			]
+		},
+		{
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/data/MSL/MSLMHL_0029/",
+				"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0029/"
+			],
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"version_id": "VERSION 1",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"id": "MSLMHL_0029",
+			"publication": "2013-05-20T00:00:00+00:00",
+			"series_name": "NULL",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"uid": "11585"
+		},
+		{
+			"id": "MSLMHL_0003",
+			"name": "NULL",
+			"publication": "2013-05-20T00:00:00+00:00",
+			"series_name": "NULL",
+			"version_id": "VERSION 2",
+			"uid": "11723",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/archive/MSL/MSLMHL_0003/",
+				"https://pds-imaging.jpl.nasa.gov/data/mahli/MSLMHL_0003/"
+			],
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD"
+		},
+		{
+			"id": "MSLMHL_0023",
+			"name": "NULL",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"version_id": "VERSION 1",
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"publication": "2013-05-20T00:00:00+00:00",
+			"series_name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"uid": "12057",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/data/MSL/MSLMHL_0023/",
+				"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0023/"
+			]
+		},
+		{
+			"publication": "2013-05-20T00:00:00+00:00",
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/data/MSL/MSLMHL_0009/",
+				"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0009/"
+			],
+			"uid": "12329",
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"id": "MSLMHL_0009",
+			"name": "NULL",
+			"series_name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"version_id": "VERSION 1",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			]
+		},
+		{
+			"name": "HST/ACS OBSERVATIONS OF THE OUTER PLANETS: PROGRAM 9384",
+			"set_name": "HST/ACS OBSERVATIONS OF THE OUTER PLANETS: PROGRAM 9384",
+			"version_id": "VERSION 1.1",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"uid": "1271",
+			"mirrors": [
+				"https://pds-rings.seti.org/holdings/volumes/HSTJx_xxxx/HSTJ0_9384/"
+			],
+			"data_set_id": [
+				"HST-M-ACS-5-ID9384-V1.1"
+			],
+			"id": "HSTJ0_9384",
+			"publication": "2018-03-25T00:00:00+00:00",
+			"series_name": "HST OBSERVATIONS OF THE OUTER PLANETS",
+			"set_id": "USA_NASA_PDS_HSTJ0_9384"
+		},
+		{
+			"version_id": "VERSION 1",
+			"targets": [
+				{
+					"name": "MARS",
+					"uid": "32"
+				}
+			],
+			"mirrors": [
+				"https://pdsimage2.wr.usgs.gov/data/MSL/MSLMHL_0024/",
+				"https://pds-imaging.jpl.nasa.gov/data/msl/MSLMHL_0024/"
+			],
+			"data_set_id": [
+				"MSL-M-MAHLI-2-EDR-IMG-V1.0",
+				"MSL-M-MAHLI-2-EDR-VID-V1.0",
+				"MSL-M-MAHLI-2-EDR-Z-V1.0",
+				"MSL-M-MAHLI-4-RDR-IMG-V1.0",
+				"MSL-M-MAHLI-4-RDR-VID-V1.0",
+				"MSL-M-MAHLI-4-RDR-Z-V1.0"
+			],
+			"publication": "2013-05-20T00:00:00+00:00",
+			"series_name": "NULL",
+			"set_id": "USA_NASA_PDS_MSLMHL_0XXX",
+			"id": "MSLMHL_0024",
+			"name": "NULL",
+			"set_name": "MSL: THE MAHLI EDR AND RDR DATA RECORD",
+			"uid": "12747"
+		}
+	]
+}
